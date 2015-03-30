@@ -1,0 +1,16 @@
+package com.wordpress.hifilmtheapp;
+
+import android.app.Activity;
+import android.os.Bundle;
+import android.widget.VideoView;
+
+public class Media extends Activity{
+	VideoView vid;
+
+}
+
+@Override
+protected void onCreate(Bundle saveInstanceState) {
+	super.onCreate(savedInstanceState);
+	setContentView(R.layout.media);
+}
