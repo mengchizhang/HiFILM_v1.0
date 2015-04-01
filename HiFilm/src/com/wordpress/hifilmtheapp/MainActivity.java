@@ -92,18 +92,18 @@ public class MainActivity extends FragmentActivity {
                 .position(new LatLng(0, 0))
                 .title("HiFilm")
                 .icon(BitmapDescriptorFactory
-                .fromResource(R.drawable.marker)));
+                .fromResource(R.drawable.marker_na)));
         mMap.addMarker(new MarkerOptions()
                 .position(LONDON)
                 .title("London")
                 .icon(BitmapDescriptorFactory
-                .fromResource(R.drawable.marker)));
+                .fromResource(R.drawable.marker_na)));
         mMap.addMarker(new MarkerOptions()
                 .position(UOW)
                 .title("University of Westminster")
                 .snippet("Check out films here!")
                 .icon(BitmapDescriptorFactory
-                .fromResource(R.drawable.marker)));                
+                .fromResource(R.drawable.marker_a)));                
     }
     
 }
