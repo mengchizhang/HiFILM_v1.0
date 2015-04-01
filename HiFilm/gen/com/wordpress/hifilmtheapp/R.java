@@ -476,7 +476,7 @@ containing a value of this type.
         public static final int adjust_height=0x7f0b0000;
         public static final int adjust_width=0x7f0b0001;
         public static final int book_now=0x7f0b0010;
-        public static final int button1=0x7f0b0018;
+        public static final int btn_Camera=0x7f0b0018;
         public static final int buyButton=0x7f0b000c;
         public static final int buy_now=0x7f0b0011;
         public static final int buy_with_google=0x7f0b0012;

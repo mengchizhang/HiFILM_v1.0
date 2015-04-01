@@ -109,7 +109,7 @@ int id action_settings 0x7f0b0019
 int id adjust_height 0x7f0b0000
 int id adjust_width 0x7f0b0001
 int id book_now 0x7f0b0010
-int id button1 0x7f0b0018
+int id btn_Camera 0x7f0b0018
 int id buyButton 0x7f0b000c
 int id buy_now 0x7f0b0011
 int id buy_with_google 0x7f0b0012
